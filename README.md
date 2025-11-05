@@ -68,6 +68,12 @@ pip install requests
 
 ## Usage
 
+Add permission to execute the tool :
+
+```bash
+chmod +x Regulatory_Compliance_Scanner 
+```
+
 Execute the scanner with :
 
 ```bash
