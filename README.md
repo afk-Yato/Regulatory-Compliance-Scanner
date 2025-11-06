@@ -102,7 +102,7 @@ The program will prompt you for a target IP (for example `127.0.0.1`). Enter a v
 ## Example output
 
 ```
-$ python3 scanner.py
+$ ./Regulatory_Compliance_Scanner
 
 =>This tool scans the hosts to detect some popular service protocols
 >This program is based on some rules MUST be deployed in every server for security purposes
